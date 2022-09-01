@@ -1,2 +1,2 @@
 # reverse-enginering
-the best way to reversing crackmes is by studying 
+**T**he best way to learn reversing is by studying crackmes
